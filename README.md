@@ -1,0 +1,1 @@
+In this repo, a clean and efficient implementation of Fully-Connected or Dense Autoencoder is provided. The code alongside the video content are created for Machine Learning course instructed at Khajeh Nasir Toosi University of Technology (KNTU).
